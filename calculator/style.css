@@ -1,0 +1,50 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 500px;
+    width: 330px; 
+    border: 2px solid #CC7722;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.button{
+    color: white;
+    background-color: black;
+    height: 70px;
+    width: 70px;
+    font-weight: 900;
+    font-size: medium;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform;
+}
+.button:hover{
+    transform: scale(1.6);
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 325px;
+    height: 45px;
+    background-color: black;
+    font-size: 25px;
+    margin: 0;
+    padding: 10px 0;
+    border: 3px solid black;
+    border-radius: 6px;
+}
+#equal {
+    background-color:#CC7722
+}
+#equals {
+    color: #CC7722;
+}
+#pr{
+    color: white;
+}
