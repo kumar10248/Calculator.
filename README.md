@@ -7,3 +7,6 @@ In this file contain `one html file , two css file and one java script file ` us
 ## Division
 
 ...
+<Details>
+  <summary>Topics Covered</summary>
+</Details>
